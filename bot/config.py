@@ -1,6 +1,6 @@
 api_id = 8  # get this from my.telegram.org
 api_hash = "7245de8e747a0d6fbe11f7cc14fcc0bb" # get this from my.telegram.org
-bot_token = "Your Bot Token"  # get it from @botfather
+bot_token = "7885877253:AAEzArm0SrHqcf4cBUHcLfrvN0lvm2qvrgY"  # get it from @botfather
 server_address = "https://shortflare.ww4786560.workers.dev//api" # your url shortner api
 
 PASSWORD = "1"
