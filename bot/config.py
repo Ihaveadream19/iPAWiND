@@ -7,7 +7,7 @@ PASSWORD = "1"
 api_key = ""
 api_urls = []
 
-admin = [719363292] # add your telegram user ID
+admin = [6341513672] # add your telegram user ID
 reseller = []
 
 web_path = "/var/www/html"
