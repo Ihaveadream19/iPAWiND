@@ -1,5 +1,5 @@
-api_id = 8  # get this from my.telegram.org
-api_hash = "7245de8e747a0d6fbe11f7cc14fcc0bb" # get this from my.telegram.org
+api_id = 22192471 # get this from my.telegram.org
+api_hash = "5812716ed49dd80b23e1d9a7856c8c64" # get this from my.telegram.org
 bot_token = "7885877253:AAEzArm0SrHqcf4cBUHcLfrvN0lvm2qvrgY"  # get it from @botfather
 server_address = "https://shortflare.ww4786560.workers.dev//api" # your url shortner api
 
